@@ -34,8 +34,9 @@ namespace System.Areas.Order.Controllers
         {
             return View();
         }
+
         /// <summary>
-        /// 訂單管理系統_新增
+        /// 訂單管理系統_新增畫面
         /// </summary>
         /// <returns></returns>
         public ActionResult InsertOrder()
